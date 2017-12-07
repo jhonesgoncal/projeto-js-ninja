@@ -23,12 +23,19 @@ th{
   color: white;
 }
 
-button{
+.btn-register{  
   background-color: #58e870;
   color:white;
   border: none;
   padding: 7px;
   width: 100px;
+}
+
+.btn-remove{
+  background-color: red;
+  border: none;
+  color: white;
+  vertical-align: middle;
 }
 
 input{
