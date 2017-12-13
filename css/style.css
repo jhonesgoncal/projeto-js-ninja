@@ -41,3 +41,7 @@ th{
 input{
   width: 200%;
 }
+
+.error{
+  color: red;
+}
